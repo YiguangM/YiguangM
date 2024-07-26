@@ -1,25 +1,136 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+<h1 align="left">🐉 Yiguang Ma</h1>
 
-<h1 align="center">Hi 👋, I'm Yiguang Ma</h1>
-<h3 align="center">Experienced ICT/IT Engineer from China with a robust background in software development and solution design. Graduated with a degree in Computer Science, equipped with a solid foundation in coding and a passion for solving complex problems. Proficient in multiple programming languages, including Python, C++, Java, JavaScript, React, HTML, CSS, and EMU8086. Seeking an opportunity to apply my diverse skill set and knowledge in a challenging and dynamic environment. Known for my ability to thrive in fast-paced, deadline-oriented settings, leveraging exceptional organizational and analytical skills to deliver outstanding results. Committed to continuous learning and staying abreast of emerging technologies and industry trends to provide innovative solutions.</h3>
+**``Digital Alchemist (Coder/Consultant/Athlete)``**
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h5 align="left">Experienced ICT/IT Engineer from China with a robust background in software development and solution design. Graduated with a degree in Computer Science, equipped with a solid foundation in coding and a passion for solving complex problems. Proficient in multiple programming languages, including Python, C++, Java, JavaScript, React, HTML, CSS, and EMU8086. </h5>
 
-- 🌱 I’m currently learning **React, Firebase**
+____________________________________________________________________________________________________________________________________________
 
-- 📫 How to reach me **yiguangma2000@gmail.com**
-
-- ⚡ Fun fact **Love gym, fishing, and fitness**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yiguang-ma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yiguang-ma/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/yiguangm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yiguangm/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yiguangma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yiguangma/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@tran-quili-ty?feature=shared" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@tran-quili-ty?feature=shared" height="30" width="40" /></a>
+<!-- Social icons section -->
+<h3 align="left">🔗Connect with me:</h3>
+<p align="center">
+  <a href="https://youtube.com/@tran-quili-ty?feature=shared"><img width="32px" alt="Youtube" title="Youtube" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/yiguang-ma/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/YiguangM/"><img width="32px" alt="Facebook" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/yiguangma/"><img width="32px" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+<h5 align="center">____________________________________________________________________________________________________________________________________________</h5>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<h3 align="left">🛠️Languages and Tools:</h3>
+<h5 align="left">Programming Languages:</h5>
+<p align="center">
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&#8287;&#8287;
+  <!-- Javascript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&#8287;&#8287;
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&#8287;&#8287;
+  <!--PHP-->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+</p>
+<h5 align="center">_ _ _ </h5>
+    
+<h5 align="left">Frontend Development:</h5>
+<p align="center">
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&#8287;&#8287
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&#8287;&#8287
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&#8287;&#8287;
+</p>
+<h5 align="center">_ _ _ </h5>
 
+<h5 align="left">Backend Development:</h5>
+<p align="center">
+  <!-- Node JS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&#8287;&#8287
+</p>
+<h5 align="center">_ _ _ </h5>
+
+<h5 align="left">Database: </h5>
+<p align="center">
+<!-- MYSQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &#8287;&#8287
+<!-- Oracle -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>&#8287;&#8287
+<!-- MS SQL Server -->
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>&#8287;&#8287
+</p>
+<h5 align="center">_ _ _ </h5>
+
+<h5 align="left">Softwares: </h5>
+<p align="center">
+<!-- Matlab -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>&#8287;&#8287
+<!-- Postman -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&#8287;&#8287
+<!--VS--> 
+  <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Microsoft-Visual-Studio-icon.png" alt="vs" width="40" height="40"/>&#8287;&#8287
+<!-- Lightroom -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/512px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Lightroom" width="40" height="40"/>&#8287;&#8287
+<!-- Premier Pro -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Premier Pro" width="40" height="40"/>&#8287;&#8287
+<!-- PS -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>&#8287;&#8287
+<!-- Illustrator -->
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&#8287;&#8287
+<!--Audition-->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/1024px-Adobe_Audition_CC_icon_%282020%29.svg.png" alt="audition" width="40" height="40"/>&#8287;&#8287
+</p>
+<h5 align="center">_ _ _ </h5>
+
+<h5 align="left">Game Engine: </h5>
+<p align="center"> 
+  <!-- Unreal Engine -->
+  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>&#8287;&#8287
+</p>
+<h5 align="center">_ _ _ </h5>
+
+<h5 align="left">Operating Systems: </h5>
+<p align="center"> 
+  <!-- Linux -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&#8287;&#8287
+  <!--Windows-->
+  <img src="https://www.shareicon.net/data/128x128/2015/08/10/82776_windows_4096x4096.png" alt="linux" width="40" height="40"/>&#8287;&#8287
+</p>
+<h5 align="center">_ _ _ </h5>
+<h5 align="center">____________________________________________________________________________________________________________________________________________</h5>
+
+
+<h3 align="left">My Latest YT Videos:</h3>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+name: GitHub Readme YouTube Cards
+on:
+  schedule:
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Allow the job to commit to the repository
+    permissions:
+      contents: write
+    # Run the GitHub Readme YouTube Cards action
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCj3iZJMU01YzozPaK9SFYvw
+
+
+<!-- END YOUTUBE-CARDS -->
+  
+   
+  
+
+<p align="Center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yiguangm&show_icons=true&locale=en&layout=compact" alt="yiguangm" /></p>
 
