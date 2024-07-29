@@ -20,41 +20,42 @@ ________________________________________________________________________________
 </p>
 <h5 align="center">____________________________________________________________________________________________________________________________________________</h5>
 
-<h3 align="left">🛠️Languages and Tools:</h3>
-<h5 align="left">Programming Languages:</h5>
-<p align="center">
-  <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&#8287;&#8287;
-  <!-- Javascript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&#8287;&#8287;
-  <!-- Java -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&#8287;&#8287;
-  <!--PHP-->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</p>
-<h5 align="center">_ _ _ </h5>
-    
-<h5 align="left">Frontend Development:</h5>
-<p align="center">
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&#8287;&#8287
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&#8287;&#8287
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&#8287;&#8287;
-</p>
-<h5 align="center">_ _ _ </h5>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="margin-right: 20px;">
+    <h3 align="left">🛠️Languages and Tools:</h3>
+  </div>
+  <div>
+    <h5 align="center">Programming Languages:</h5>
+    <p align="center">
+      <!-- C++ -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-left: 10px;"/>
+      <!-- Javascript -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-left: 10px;"/>
+      <!-- Java -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-left: 10px;"/>
+      <!-- Python -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-left: 10px;"/>
+      <!-- PHP -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin-left: 10px;"/>
+    </p>
+    <h5 align="center">Frontend Development:</h5>
+    <p align="center">
+      <!-- React -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-left: 10px;"/>
+      <!-- HTML -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-left: 10px;"/>
+      <!-- CSS -->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-left: 10px;"/>
+    </p>
+  </div>
+</div>
 
-<h5 align="left">Backend Development:</h5>
+<h5 align="center">Backend Development:</h5>
 <p align="center">
   <!-- Node JS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&#8287;&#8287
 </p>
-<h5 align="center">_ _ _ </h5>
-
-<h5 align="left">Database: </h5>
+<h5 align="center">Database: </h5>
 <p align="center">
 <!-- MYSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &#8287;&#8287
@@ -63,9 +64,7 @@ ________________________________________________________________________________
 <!-- MS SQL Server -->
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>&#8287;&#8287
 </p>
-<h5 align="center">_ _ _ </h5>
-
-<h5 align="left">Softwares: </h5>
+<h5 align="center">Softwares: </h5>
 <p align="center">
 <!-- Matlab -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>&#8287;&#8287
@@ -73,7 +72,9 @@ ________________________________________________________________________________
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&#8287;&#8287
 <!--VS--> 
   <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Microsoft-Visual-Studio-icon.png" alt="vs" width="40" height="40"/>&#8287;&#8287
-<!-- Lightroom -->
+<!--MSCRM-->
+  <img src="https://camo.githubusercontent.com/5ab594dca2739f97b1bfc5446cc557d9a6b02a84e9311b77670ddb130c0e1141/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f353635343934332f313330353530372f62376332316365322d333139382d313165332d393161342d6635383434336634623963322e706e67" alt="MSCRM" width="40" height="40"/>&#8287;&#8287
+  <!-- Lightroom -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/512px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Lightroom" width="40" height="40"/>&#8287;&#8287
 <!-- Premier Pro -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="Premier Pro" width="40" height="40"/>&#8287;&#8287
@@ -84,27 +85,24 @@ ________________________________________________________________________________
 <!--Audition-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/1024px-Adobe_Audition_CC_icon_%282020%29.svg.png" alt="audition" width="40" height="40"/>&#8287;&#8287
 </p>
-<h5 align="center">_ _ _ </h5>
 
-<h5 align="left">Game Engine: </h5>
+<h5 align="center">Game Engine: </h5>
 <p align="center"> 
   <!-- Unreal Engine -->
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>&#8287;&#8287
 </p>
-<h5 align="center">_ _ _ </h5>
 
-<h5 align="left">Operating Systems: </h5>
+<h5 align="center">Operating Systems: </h5>
 <p align="center"> 
   <!-- Linux -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&#8287;&#8287
   <!--Windows-->
   <img src="https://www.shareicon.net/data/128x128/2015/08/10/82776_windows_4096x4096.png" alt="linux" width="40" height="40"/>&#8287;&#8287
 </p>
-<h5 align="center">_ _ _ </h5>
 <h5 align="center">____________________________________________________________________________________________________________________________________________</h5>
 
 
-<h3 align="left">My Latest YT Videos:</h3>
+<h3 align="center">My Latest YT Videos:</h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 name: GitHub Readme YouTube Cards
