@@ -105,8 +105,12 @@ ________________________________________________________________________________
 <h3 align="center">My Latest YT Videos:</h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<!-- https://ytcards.demolab.com/?id=2NXbB-0CtYQ&title=<video+title>&lang=en&timestamp=1622923200>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7207 "💤 Tranquility | Ocean to Sleep, Study and Relax | 2 Hours of High Quality Stereo Ocean Sounds") -->
+[![💤 Tranquility | Ocean to Sleep, Study and Relax | 2 Hours of High Quality Stereo Ocean Sounds](
+https://ytcards.demolab.com/?id=2NXbB-0CtYQ&title=%F0%9F%92%AA+Tranquility+|+Ocean+to+Sleep,+Study+and+Relax+|+2+Hours+of+High+Quality+Stereo+Ocean+Sounds&lang=en&timestamp=1622937600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7207 "💤 Tranquility | Ocean to Sleep, Study and Relax | 2 Hours of High Quality Stereo Ocean Sounds")](https://www.youtube.com/watch?v=2NXbB-0CtYQ)
 
+
+
+[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
 
 <!-- END YOUTUBE-CARDS -->
   
