@@ -105,24 +105,7 @@ ________________________________________________________________________________
 <h3 align="center">My Latest YT Videos:</h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-name: GitHub Readme YouTube Cards
-on:
-  schedule:
-    # Runs every hour, on the hour
-    - cron: "0 * * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    # Allow the job to commit to the repository
-    permissions:
-      contents: write
-    # Run the GitHub Readme YouTube Cards action
-    steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
-        with:
-          channel_id: UCj3iZJMU01YzozPaK9SFYvw
+<!-- https://ytcards.demolab.com/?id=2NXbB-0CtYQ&title=<video+title>&lang=en&timestamp=1622923200>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7207 "💤 Tranquility | Ocean to Sleep, Study and Relax | 2 Hours of High Quality Stereo Ocean Sounds") -->
 
 
 <!-- END YOUTUBE-CARDS -->
