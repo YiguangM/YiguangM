@@ -134,7 +134,6 @@ ________________________________________________________________________________
   </p>
 
 <h3>💻 GitHub Profile Stats</h3>
-![YiguangM's Stats](https://github-readme-stats.vercel.app/api?username=YiguangM&theme=default&show_icons=true&hide_border=true&count_private=true)
-   
-<p align="Center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yiguangm&show_icons=true&locale=en&layout=compact" /></p>
+<p align="left"> <img align="center" src= https://github-readme-stats.vercel.app/api?username=YiguangM&theme=default&show_icons=true&hide_border=true&count_private=true)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yiguangm&show_icons=true&locale=en&layout=compact"/> </p>
 
