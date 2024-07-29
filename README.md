@@ -130,11 +130,17 @@ ________________________________________________________________________________
 
 <h3>🔥 Streak Stats</h3>
   <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YiguangM&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YiguangM&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat"/></a>
   </p>
 
 <h3>💻 GitHub Profile Stats</h3>
 <p align="left"> <img align="center" src= https://github-readme-stats.vercel.app/api?username=YiguangM&theme=default&show_icons=true&hide_border=true&count_private=true)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiguangM&theme=default&show_icons=true&hide_border=true&layout=compact"/> </p>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<h3>📈 GitHub Profile Contribution Graph</h3>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="YiguangM's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=YiguangM&bg_color=default&color=000000&line=0000FF&point=000000&hide_border=false" />
+</a>
 
 
