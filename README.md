@@ -105,12 +105,17 @@ ________________________________________________________________________________
 <h3 align="center">My Latest YT Videos:</h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![💤 Tranquility | Ocean to Sleep, Study and Relax | 2 Hours of High Quality Stereo Ocean Sounds](
+[![💤Tranquility | Ocean to Sleep, Study and Relax | 2 Hours of High Quality Stereo Ocean Sounds](
 https://ytcards.demolab.com/?id=2NXbB-0CtYQ&title=%F0%9F%92%AA+Tranquility+|+Ocean+to+Sleep,+Study+and+Relax+|+2+Hours+of+High+Quality+Stereo+Ocean+Sounds&lang=en&timestamp=1622937600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7207 "💤 Tranquility | Ocean to Sleep, Study and Relax | 2 Hours of High Quality Stereo Ocean Sounds")](https://www.youtube.com/watch?v=2NXbB-0CtYQ)
+[![💤Tranquility | London Eye | Sleep, Study and Relax | 1 Hour of High Quality Ambience](https://ytcards.demolab.com/?id=5KkbbHOUdqg&title=💤Tranquility+|+London+Eye+|+Sleep,+Study+and+Relax+|+1+Hour+of+High+Quality+Ambience&lang=en&timestamp=1627612800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600 "💤Tranquility | London Eye | Sleep, Study and Relax | 1 Hour of High Quality Ambience")](https://www.youtube.com/watch?v=5KkbbHOUdqg)
+[![💤Tranquility | Sleep, Study and Relax | 2 Hours of High Quality Peach Field SFX (4K UHD)]( https://ytcards.demolab.com/?id=NlzTSp18G3A&title=%F0%9F%92%BETranquility+|+Sleep,+Study+and+Relax+|+2+Hours+of+High+Quality+Peach+Field+SFX+%284K+UHD%29&lang=en&timestamp=1626566400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7200 "💤Tranquility | Sleep, Study and Relax | 2 Hours of High Quality Peach Field SFX (4K UHD)")](https://youtu.be/NlzTSp18G3A?feature=shared)
+[![💤Tranquility | Echidna Chasm Canyon | Sleep, Study and Relax | 1 Hour of High Quality Ambience](https://ytcards.demolab.com/?id=VQDPo8F_8uQ&title=%F0%9F%92%AATranquility+|+Echidna+Chasm+Canyon+|+Sleep,+Study+and+Relax+|+1+Hour+of+High+Quality+Ambience&lang=en&timestamp=1627094400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3499 "💤Tranquility | Echidna Chasm Canyon | Sleep, Study and Relax | 1 Hour of High Quality Ambience"))](https://youtu.be/VQDPo8F_8uQ?feature=shared)
+[![💤Tranquility | Sleep, Study and Relax | 1 Hour of High Quality at the Harbor SFX (4K UHD)](https://ytcards.demolab.com/?id=tSSBnnpstQY&title=%F0%9F%92%9CTranquility+|+Sleep,+Study+and+Relax+|+1+Hour+of+High+Quality+at+the+Harbor+SFX+(4K+UHD)&lang=en&timestamp=1626652800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3600 "💤Tranquility | Sleep, Study and Relax | 1 Hour of High Quality at the Harbor SFX (4K UHD)")](https://youtu.be/tSSBnnpstQY?feature=shared)
 
 
+<!--  -->
 
-[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
+
 
 <!-- END YOUTUBE-CARDS -->
   
