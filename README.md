@@ -102,7 +102,7 @@ ________________________________________________________________________________
 <h5 align="center">____________________________________________________________________________________________________________________________________________</h5>
 
 
-<h3 align="center">My Latest YT Videos:</h3>
+<h3 align="Left">My Latest YT Videos:</h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
