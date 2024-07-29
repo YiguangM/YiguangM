@@ -135,4 +135,6 @@ ________________________________________________________________________________
 
 <h3>💻 GitHub Profile Stats</h3>
 <p align="left"> <img align="center" src= https://github-readme-stats.vercel.app/api?username=YiguangM&theme=default&show_icons=true&hide_border=true&count_private=true)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yiguangm&show_icons=true&locale=en&layout=compact"/> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YiguangM&theme=default&show_icons=true&hide_border=true&layout=compact"/> </p>
+
+
