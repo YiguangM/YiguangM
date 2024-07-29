@@ -127,7 +127,14 @@ ________________________________________________________________________________
 </div>
 
 <!-- END YOUTUBE-CARDS -->
-  
+
+<h3>🔥 Streak Stats</h3>
+  <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YiguangM&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  </p>
+
+<h3>💻 GitHub Profile Stats</h3>
+![YiguangM's Stats](https://github-readme-stats.vercel.app/api?username=YiguangM&theme=default&show_icons=true&hide_border=true&count_private=true)
    
-<p align="Center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yiguangm&show_icons=true&locale=en&layout=compact" alt="yiguangm" /></p>
+<p align="Center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yiguangm&show_icons=true&locale=en&layout=compact" /></p>
 
